@@ -1,7 +1,6 @@
-### Hi there 👋, my name is Jamin
+### Hi there 👋, welcome!
 #### I am a .NET Developer
 ![Header](./github-header-image.png)
-![I am a .NET Developer](![Header](./github-header-image.png))
 
 I am a Full stack .NET Developer.  I am originally from the US and currently reside in Kyiv.  I enjoy walking, ocean, music, and film in my spare time. 
 
